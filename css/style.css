@@ -350,7 +350,7 @@ html {
             }
 
             .list__item.edit::before {
-                content: url('../icons/edit.svg');
+                content: url('../icons/Edit.svg');
                 position: absolute;
                 left: -25px;
             }
